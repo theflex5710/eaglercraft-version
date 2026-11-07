@@ -4,11 +4,7 @@ Best Eaglercraft Launcher(https://gx-launcher.github.io/index.html)
 
 [26.2 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/26.2/eaglercraft26-2.html)
 
-[1.14.4 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/1.14.4/1.14.4-wasm.html)
-
 [1.21.11 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/1.21.11/1.21.11-wasm.html)
-
-[1.14.4 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/1.14.4/1.14.4-wasm.html)
 
 [1.20.6 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/1.20.6/1.20.6-wasm.html)
 
