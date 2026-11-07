@@ -37,3 +37,5 @@ Best Eaglercraft Launcher(https://gx-launcher.github.io/index.html)
 [1.1 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/1.1/1.1.html)
 
 [1.0 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/1.0/1.0-wasm.html)
+
+[Download Tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
