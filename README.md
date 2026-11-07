@@ -1,4 +1,4 @@
-Best Eaglercraft Launcher[here](https://gx-launcher.github.io/index.html)
+Best Eaglercraft Launcher [Here](https://gx-launcher.github.io/index.html)
 
 [26.3 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/26.3/eaglercraft26-3.html)
 
