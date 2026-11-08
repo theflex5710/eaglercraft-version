@@ -38,4 +38,30 @@ Best Eaglercraft Launcher [Here](https://gx-launcher.github.io/index.html)
 
 [1.0 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/1.0/1.0-wasm.html)
 
-[Download Mods](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Clients ⬇️
+
+[Resistant Client 26.2](https://github.com/theflex5710/eaglercraft-version/releases/download/Resistant-Client-26.2/Resistant-Client-26.2.html)
+
+[Chromium Client 26.2](https://github.com/theflex5710/eaglercraft-version/releases/download/Chromium-Client/Chromium.Client.html)
+
+[EB Client 1.14.4](https://github.com/theflex5710/eaglercraft-version/releases/download/EB-Client-1.14.4/EB.Client.1.14.4.html)
+
+[Larp Client 1.14.4](https://github.com/theflex5710/eaglercraft-version/releases/download/Larp-Client/Larp.Client.1.14.4.html)
+
+[Tuff Client 1.12](https://github.com/theflex5710/eaglercraft-version/releases/download/Tuff-Client/Tuff_Client_WASM.html)
+
+[Galactic Client 1.12](https://github.com/theflex5710/eaglercraft-version/releases/download/Galactic-Client/Galactic-Client-8.0.0.html)
+
+[Pixel Client 1.8](https://github.com/theflex5710/eaglercraft-version/releases/download/Pixel-Client/PixelClient.1.8.8.JS.html)
+
+[LiquidBounce Client 1.8](https://github.com/theflex5710/eaglercraft-version/releases/download/LiquidBounce-Client/LiquidBounce.html)
+
+[DragonX Client 1.8](https://github.com/theflex5710/eaglercraft-version/releases/download/DragonX-Client/DragonX.New.Click.GUI.html)
+
+[Wurst Client 1.8](https://github.com/theflex5710/eaglercraft-version/releases/download/Wurst-Client/wurstx.html)
+
+[Resent Client 1.8](https://github.com/theflex5710/eaglercraft-version/releases/download/Resent-Client/Resent.Client.html)
+
+[Reflex Client 1.8](https://github.com/theflex5710/eaglercraft-version/releases/download/Reflex-Client/Reflex.Client.html)
+
+[Download Mods](https://youtu.be/dQw4w9WgXcQ?si=FnZ_dla-WpigthlW)
