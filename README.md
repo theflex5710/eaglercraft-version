@@ -1,7 +1,5 @@
 Best Eaglercraft Launcher [Here](https://gx-launcher.github.io/index.html)
 
-Best Chromium Launcher [Here](https://github.com/theflex5710/eaglercraft-version/releases/download/Chromium-Launcher/Chromium.Launcher.html)
-
 [26.3 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/26.3/eaglercraft26-3.html)
 
 [26.2 Download](https://github.com/theflex5710/eaglercraft-version/releases/download/26.2/eaglercraft26-2.html)
