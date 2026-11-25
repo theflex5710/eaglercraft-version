@@ -40,6 +40,8 @@ Best Eaglercraft Launcher [Here](https://gx-launcher.github.io/index.html)
 
 Clients ⬇️
 
+Chromium Client[1](https://github.com/theflex5710/eaglercraft-version/releases/download/Chromium2/Chromium.Launcher.html) > [2](https://github.com/theflex5710/eaglercraft-version/releases/download/Chromium-Launcher/Chromium-Client-shaders.html) > [3](https://github.com/theflex5710/eaglercraft-version/releases/download/Chromium3/Chromium-Client-vanilla.html)
+
 [Resistant Client 26.2](https://github.com/theflex5710/eaglercraft-version/releases/download/Resistant-Client-26.2/Resistant-Client-26.2.html)
 
 [Chromium Client 26.2](https://github.com/theflex5710/eaglercraft-version/releases/download/Chromium-Client/Chromium.Client.html)
